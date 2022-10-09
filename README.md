@@ -1,1 +1,6 @@
-My first readme
+my first commit
+
+Git task solved
+
+
+
